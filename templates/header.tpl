@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!-- Your header template file -->
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
 		<!-- Templating system by ZhivCo Software (c) 2011-2015 -->
